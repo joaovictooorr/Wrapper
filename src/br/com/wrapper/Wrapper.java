@@ -8,7 +8,7 @@ public class Wrapper {
         Scanner input = new Scanner(System.in);
         long num = input.nextLong();
         Long num2 = Long.valueOf(num);
-        System.out.println(num);
+        System.out.println(num2);
     }
 
     public static void main(String[] args){
